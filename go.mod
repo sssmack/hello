@@ -1,5 +1,3 @@
-module github.com/sssmack/hello
+module gitlab.jc.net/james/hello
 
-go 1.12
-
-require rsc.io/quote/v3 v3.1.0
+go 1.15
