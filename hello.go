@@ -1,8 +1,12 @@
 package hello
 
-import "rsc.io/quote/v3"
+import (
+	jamesSome "gitlab.jc.net/james/some"
+	"rsc.io/quote/v3"
+)
 
 func Hello() string {
+	samesSome.F()
 	return quote.HelloV3()
 }
 
